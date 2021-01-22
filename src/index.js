@@ -1,3 +1,6 @@
-import helloWorld from './hello-world'
+import helloWorld from './helloWorld'
+import addImage from "./addImage";
+
 
 helloWorld()
+addImage()
